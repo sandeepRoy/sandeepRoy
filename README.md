@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-roy-403a78274) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4407572)<a href="https://stackoverflow.com/users/10249156/wasitshafi" target="_blank">
 <img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=4407572" />
+src="https://stackoverflow-badge.vercel.app/?userID=4407572/sandeep-roy" />
 </a> 
 
 # 💻 Tech Stack:
