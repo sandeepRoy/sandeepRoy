@@ -8,6 +8,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=sandeepRoy&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepRoy&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepRoy&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://stackoverflow.com/users/10249156/wasitshafi" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=4407572" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandeepRoy&theme=flat&no-frame=false&no-bg=false&margin-w=4)
